@@ -1,8 +1,14 @@
 {
   "name": "rcue",
-  "version": "3.48.1",
+  "version": "3.48.1-lineaje-01",
   "author": "Red Hat",
   "license": "Apache-2.0",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "dependencies": {
     "bootstrap": "~3.3.7",
     "font-awesome": "^4.7.0",
@@ -45,10 +51,10 @@
     "patternfly-bootstrap-combobox": "~1.1.7",
     "patternfly-bootstrap-treeview": "~2.1.0"
   },
-  "description": "The [Red Hat Common User Experience (RCUE)](http://rcue-uxd.itos.redhat.com/) project was created to promote design commonality across all of Red Hat’s Enterprise product offerings.",
+  "description": "The [Red Hat Common User Experience (RCUE)](http://rcue-uxd.itos.redhat.com/) project was created to promote design commonality across all of Red Hat\u2019s Enterprise product offerings.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/patternfly/rcue.git"
+    "url": "https://github.com/lineaje-labs-gos/patternfly-rcue"
   },
   "bugs": {
     "url": "https://github.com/patternfly/rcue/issues"
